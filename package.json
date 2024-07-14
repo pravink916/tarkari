@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
+    "build": "nx run lebensmittel:build",
     "start": "nx run lebensmittel:serve"
   },
   "private": true,
