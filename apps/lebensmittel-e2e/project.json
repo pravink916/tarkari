@@ -1,0 +1,10 @@
+{
+  "name": "lebensmittel-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/lebensmittel-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["lebensmittel"],
+  "// targets": "to see all targets run: nx show project lebensmittel-e2e --web",
+  "targets": {}
+}
