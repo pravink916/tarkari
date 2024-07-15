@@ -81,7 +81,7 @@
       "executor": "@nx/web:file-server",
       "options": {
         "buildTarget": "lebensmittel:build",
-        "port": 4200,
+        "port": 10000,
         "staticFilePath": "dist/apps/lebensmittel/browser",
         "spa": true
       }
