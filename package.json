@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "build": "nx run lebensmittel:build",
-    "start": "nx run lebensmittel:serve --host=0.0.0.0"
+    "start": "nx run lebensmittel:serve --host=0.0.0.0 --verbose"
   },
   "private": true,
   "dependencies": {
